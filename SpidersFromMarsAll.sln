@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpidersFromMars", "SpidersFromMars\SpidersFromMars.csproj", "{68D1E677-5D44-4FD5-8B91-F33C7BA2516B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpidersFromMarsTest", "SpidersFromMarsTest\SpidersFromMarsTest.csproj", "{5701CB6B-294D-4E2B-8375-19C3ED39C268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D1E677-5D44-4FD5-8B91-F33C7BA2516B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D1E677-5D44-4FD5-8B91-F33C7BA2516B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D1E677-5D44-4FD5-8B91-F33C7BA2516B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D1E677-5D44-4FD5-8B91-F33C7BA2516B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5701CB6B-294D-4E2B-8375-19C3ED39C268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5701CB6B-294D-4E2B-8375-19C3ED39C268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5701CB6B-294D-4E2B-8375-19C3ED39C268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5701CB6B-294D-4E2B-8375-19C3ED39C268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E591DE8-5D61-42D0-9185-BC59DF9AFAD7}
+	EndGlobalSection
+EndGlobal

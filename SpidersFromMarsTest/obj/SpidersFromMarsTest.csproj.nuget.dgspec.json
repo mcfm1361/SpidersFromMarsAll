@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMarsTest\\SpidersFromMarsTest.csproj": {}
+  },
+  "projects": {
+    "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMarsTest\\SpidersFromMarsTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMarsTest\\SpidersFromMarsTest.csproj",
+        "projectName": "SpidersFromMarsTest",
+        "projectPath": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMarsTest\\SpidersFromMarsTest.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMarsTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMars\\SpidersFromMars.csproj": {
+                "projectPath": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMars\\SpidersFromMars.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMars\\SpidersFromMars.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMars\\SpidersFromMars.csproj",
+        "projectName": "SpidersFromMars",
+        "projectPath": "C:\\VSNet2019Projects\\SpidersFromMarsAll\\SpidersFromMars\\SpidersFromMars.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

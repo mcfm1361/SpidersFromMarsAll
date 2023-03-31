@@ -1,0 +1,6 @@
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\bin\Debug\SpidersFromMars.exe.config
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\bin\Debug\SpidersFromMars.exe
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\bin\Debug\SpidersFromMars.pdb
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\obj\Debug\SpidersFromMars.csproj.CoreCompileInputs.cache
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\obj\Debug\SpidersFromMars.exe
+C:\VSNet2019Projects\SpidersFromMarsAll\SpidersFromMars\obj\Debug\SpidersFromMars.pdb
