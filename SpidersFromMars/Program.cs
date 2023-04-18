@@ -10,6 +10,7 @@ namespace SpidersFromMars
     {
         static void Main(string[] args)
         {
+            // Add comment to change code / allow another commit
             string TerminateCmd = "";
 
             do
