@@ -11,6 +11,7 @@ namespace SpidersFromMars
         static void Main(string[] args)
         {
             // Add comment to change code / allow another commit
+            // Another comment to test sidebranch1 commits
             string TerminateCmd = "";
 
             do
